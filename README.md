@@ -1,6 +1,6 @@
 # comparative-data
 
-A repository of comparative data
+A repository of comparative data.
 
 If you find data as a picture, you can use http://www.onlineocr.net/ to convert it to text. Another alternatives are http://tesseract.projectnaptha.com/ or using the Naphta extension for Chrome https://projectnaptha.com/.
 
