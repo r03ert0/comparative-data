@@ -1,3 +1,8 @@
+Original file:
+http://www.frontiersin.org/files/Articles/54356/fnhum-07-00424-HTML/image_m/fnhum-07-00424-t001.jpg
+
+Comments:
+
 Data from Stephan et al., 1981.
 * Species	Brain weight (g)
 * Ventricle (1 and 2) volume (mm3)
