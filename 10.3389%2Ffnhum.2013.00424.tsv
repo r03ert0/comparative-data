@@ -1,5 +1,4 @@
-{
-"data":"Species	Brain weight (g) a	Neuron density (per mm3) b	Astrocyte density (per mm.) b	Gray matter thickness (mm)c	Ventricle (1 and 2) volume (mm3) a	GI d
+Species	Brain weight (g) a	Neuron density (per mm3) b	Astrocyte density (per mm.) b	Gray matter thickness (mm)c	Ventricle (1 and 2) volume (mm3) a	GI d
 Castor canadensis	41.17	NA	NA	1.82	NA	1.02
 Hydrochoerus h.	63.5	NA	NA	1.19	NA	1.3
 Oryctolagus cuniculus	6.5	NA	NA	0.94	NA	1.15
@@ -65,10 +64,4 @@ Dasypus novemcinctus	10.75	NA	NA	1	NA	1.07
 Trichechus manatus	382	51286	97724	2.71	NA	1.02
 Procavia capensis	19.17	NA	NA	0.71	NA	1.37
 Macropus fuliginosus	64.8	NA	NA	1	NA	1.41
-Didelphis virginiana	6.72	NA	NA	0.66	NA	1.12",
-"comments":"* All data for adult
-a Stephan et al., 1981.
-b Lewitus et al., 2012.
-c See Figure 5.
-d Lewitus et al., 2013."
-}
+Didelphis virginiana	6.72	NA	NA	0.66	NA	1.12
