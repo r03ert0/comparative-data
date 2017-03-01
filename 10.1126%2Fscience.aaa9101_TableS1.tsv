@@ -1,0 +1,77 @@
+Species	AG, mm2	FI	T, mm	AG, MM2	FI	T, mm	Refere nce
+Marsupialia							
+Marmota mitis				219	1	0.806	1
+Didelphis virginiana				660	1.119	0.826	1
+Wallabia rufogrisea				2165	1.23	2.471	1
+Macropus melanops				3745	1.413	2.243	1
+Afrotheria							
+Procavia capensis	2113	1.355	1.482				17
+Dendrohyrax dorsalis	1895	1.36	1.598				17
+Loxodonta africana	257067	4.137	2.633	313750	3.84	2.234	15, 1
+Sailer setosus				216	1	0.944	1
+Elephantulus .fuscipes				233	1	0.865	1
+Potamogale velox				414	1	1.618	1
+Rhychocyon stuhlmanni				715	n.a.	1.406	1
+Trichechus manatus				6300	1.06	4.23	23
+Glires							
+Mus muscu/us	148	1.019	0.725				20
+Rattus norvegicus	356	1.043	1.212	322	1	n.a.	20, 1
+Cavia porcellus	536	1.044	1.515				20
+Dasyprocta promnolopha	1413	1.171	1.846				20
+Hydrochoerus hydrochoeris	6005	1.304	2.814				20
+Oryctolagus cuniculus				690	1.15	n.a.	1
+Dolychotus sp.				3255	1.418	2.012	1
+Scandentia							
+Tupaia glis				645	n.a.	0.946	1
+Tupaia belangeri	497	1.041	1.07				19
+Primata							
+Callimico goeldii	1953	1.262	1.6				19
+Callithrix sp.				2020	1.224	1.507	1
+Callithrix jacchus	1534	1.175	1.327				19
+Otolemur garnettii	1745	1.247	1.428				19
+Aotus trivirgatus	2214	1.356	1.488	1890	n.a.	1.971	19, 1
+Saimiri sciureus	5250	1.574	1.468	3980	1.598	1.671	19, 1
+Cebus apella	7653	1.694	1.761				19
+Galagoides demidoff				675	n.a.	0.946	1
+Perodicticus potto				1990	n.a.	1.927	1
+Cercopithecus aethiops				10000	1.852	1.8	1
+Macaca mulatta				12500	1.701	2.204	1
+Macaca radiata	8441	1.807	1.566				19
+Macaca fascicularis	9381	1.652	1.411				19
+Papio anubis cynocephalus	16689	1.919	2.032				19
+Homo sapiens	94050	2.21	2.938	121500	2.826	2.811	10, 21
+Homo sapiens				113750	2.862	n.a.	1
+Eulipotyphla							
+Sorex minutus				40	1	0.367	1
+Sorex araneus				70	1	0.388	1
+Crocidura russala				61	1	0.438	1
+Crocidura flavescens				97	1	0.619	1
+Erinaceus europaeus				462	1	1.047	1
+Neomys .fodiens				106	1	0.415	1
+Talpa europaea				194	1	0.858	1
+Galemys pyrenaicus				247	1	0.996	1
+Carnivora							
+Felis catus				4165	1.593	1.837	1
+Procyon lotor				6100	1.848	n.a.	1
+Vulpes vulpes				6750	1.985	n.a.	22
+Vulpes vulpes				7550	1.804	1.815	1
+Canis latrans				11350	1.802	n.a.	1
+Artiodactyla							
+Sus scrofa domesticus	6594	1.889	1.336	18000	2.169	2.189	16, 1
+Antidorcas marsupialis	9623	2.018	1.669				16
+Damaliscus dorcas	16915	2.008	2.169				16
+Tragelaphus stripceros	22203	2.026	2.344				16
+Giraffa camelopardalis	40128	2.408	2.394				16
+Bos taurus				52750	2.488	2.142	1
+Ovis aries				14900	1.935	1.738	1
+Perissodactyla							
+Equus caballus				57550	n.a.	1.99	24
+Equus caballus				61400	2.797	2.296	1
+Cetacea							
+Phocaena phocaena				65000	4.127	1.577	1
+Stenella styx				73700	n.a.	3.087	1
+Delphinus delphis				85850	3.993	n.a.	1
+Tursiops truncatus				135000	4.762	1.715	1
+Grampus griseus				156600	4.29	1.992	1
+Globicephala				290750	5.239	2.024	1
+Pseudorca crassidiens 				739,200 	9.935	n.a. 	1
