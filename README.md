@@ -19,3 +19,4 @@ Finaly, to enjoy the fruit of your work, you can use http://rawgraphs.io/ and pa
 * Lewitus et al (2013) Conical expansion of the outer subventricular zone and the role of neocortical folding in evolution and development. http://dx.doi.org/10.3389/fnhum.2013.00424
 * Lewitus et al (2013) An Adaptive Threshold in Mammalian Neocortical Evolution. http://dx.doi.org/10.1371/journal.pbio.1002000
 * Herculano-Houzel et al (2013) Distribution of neurons in functional areas of the mouse cerebral cortex reveals quantitatively different cortical zones. http://dx.doi.org/10.3389/fnana.2013.00035
+* Motta and Herculano-Houzel (2015) Cortical folding scales universally with surface area and thickness, not number of neurons. http://dx.doi.org/10.1126/science.aaa9101
