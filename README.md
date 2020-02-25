@@ -4,15 +4,15 @@ This is a repository of comparative data useful for neuroanatomy and neuroscienc
 
 ## How to contribute
 
-If you find tabular data as a picture, you can use http://www.onlineocr.net/ to convert it to text. Another alternatives are http://tesseract.projectnaptha.com/ or using the Naphta extension for Chrome https://projectnaptha.com/.
+If you find tabular data as a picture, you can use [http://www.onlineocr.net/](http://www.onlineocr.net/) to convert it to text. Other alternatives are [http://tesseract.projectnaptha.com/](http://tesseract.projectnaptha.com/) or using the Naphta extension for Chrome [https://projectnaptha.com/](https://projectnaptha.com/).
 
-For data in scatter plots, bar plots and others, you can use http://arohatgi.info/WebPlotDigitizer/app/.
+For data in scatter plots, bar plots and others, you can use [http://arohatgi.info/WebPlotDigitizer/app/](http://arohatgi.info/WebPlotDigitizer/app/).
 
-For each data table, create a file where the name is the DOI of the paper where the data comes from. DOI codes have symbols that are not allowed in a file name. Convert them to an acceptable name using http://meyerweb.com/eric/tools/dencoder/.
+For each data table, create a `.tsv` file and use the DOI of the paper where the data comes from as name for the `.tsv` file. DOI codes have symbols that are not allowed in a file name. Convert them to an acceptable name using [http://meyerweb.com/eric/tools/dencoder/](http://meyerweb.com/eric/tools/dencoder/).
 
-Put a correctly formated `.tsv` file with the data (GitHub will let you know if there are any problems), and add further comments or legends in a file with the same name plus `.ReadMe.txt`.
+Provide a correctly formatted `.tsv` file with the data (GitHub will let you know if there are any problems), and add further comments or legends in a file with the same name plus `.ReadMe.txt`.
 
-Finaly, to enjoy the fruit of your work, you can use http://rawgraphs.io/ and pass a https://rawgit.com link to the `.tsv` file to get beautiful d3 plots.
+Finally, to enjoy the fruit of your work, you can use [http://rawgraphs.io/](http://rawgraphs.io/) and pass a [https://rawgit.com](https://rawgit.com) link to the `.tsv` file to get beautiful d3 plots.
 
 ## Data
 * [Table S1 from Mota and Herculano-Houzel 2015](https://github.com/r03ert0/comparative-data/blob/master/10.1126%252Fscience.aaa9101_TableS1.tsv) Total surface area, thickness and folding index for 65 species
