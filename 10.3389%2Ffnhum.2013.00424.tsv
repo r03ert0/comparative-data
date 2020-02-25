@@ -1,67 +1,67 @@
 Species	Brain weight (g)	Neuron density (per mm3)	Astrocyte density (per mm.)	Gray matter thickness (mm)	Ventricle (1 and 2) volume (mm3)	GI
-Castor canadensis	41.17	NA	NA	1.82	NA	1.02
-Hydrochoerus h.	63.5	NA	NA	1.19	NA	1.3
-Oryctolagus cuniculus	6.5	NA	NA	0.94	NA	1.15
-Erythrocebus patas	105.65	416869	154882	NA	561	1.91
-Miopithecus talapoin	39.1	NA	NA	NA	262	1.74
-Mandrillus sphinx	NA	263027	138038	1.21	NA	2.14
-Lophocebus albigena	103.38	NA	NA	NA	742	1.87
+Castor canadensis	41.17			1.82		1.02
+Hydrochoerus h.	63.5			1.19		1.3
+Oryctolagus cuniculus	6.5			0.94		1.15
+Erythrocebus patas	105.65	416869	154882		561	1.91
+Miopithecus talapoin	39.1				262	1.74
+Mandrillus sphinx		263027	138038	1.21		2.14
+Lophocebus albigena	103.38				742	1.87
 Macaca mulata	89.22	422149	113783	1.14	834	1.79
-Piliocolobus badius	76.75	NA	NA	NA	455	1.81
-Pygathrix nemaeus	84.83	NA	NA	NA	911	1.64
-Gorilla gorilla	477.44	144544	138038	NA	3608	2.26
+Piliocolobus badius	76.75				455	1.81
+Pygathrix nemaeus	84.83				911	1.64
+Gorilla gorilla	477.44	144544	138038		3608	2.26
 Pan troglodytes	392.06	208930	123027	1.25	1899	2.46
-Hylobates lar	101.52	NA	NA	NA	555	1.86
-Alouatta palliata	52.75	176349	49168	1.31	NA	1.33
-Lagothrix lagotricha	95.58	NA	NA	NA	1090	1.97
-Callicebus moloch	19	467735	125893	1.11	NA	1.25
+Hylobates lar	101.52				555	1.86
+Alouatta palliata	52.75	176349	49168	1.31		1.33
+Lagothrix lagotricha	95.58				1090	1.97
+Callicebus moloch	19	467735	125893	1.11		1.25
 Aotus trivirgatus	17.4	410950	59930	1.36	105	1.31
-Callimico goeldii	10.95	NA	NA	NA	48	1.26
-Callithrix jacchus	7.61	NA	NA	NA	52	1.17
-Saguinus midas	10.5	NA	NA	NA	251	1.2
+Callimico goeldii	10.95				48	1.26
+Callithrix jacchus	7.61				52	1.17
+Saguinus midas	10.5				251	1.2
 Saimiri sciureus	22.98	478630	117490	1.07	299	1.46
-Microcebus murinus	1.85	190546	112202	NA	11	1.1
-Cheirogaleus major	6.43	NA	NA	NA	83	1.15
-Cheirogaleus medius	3.01	186209	109648	NA	25	1.11
-Avahi laniger	10.65	NA	NA	NA	172	1.26
-Avahi occidentalis	9.69	NA	NA	NA	74	1.15
-Propithecus verreauxi	26.9	NA	NA	NA	231	1.35
-Indri indri	37.35	NA	NA	NA	330	1.46
-Daubentonia m.	44.89	NA	NA	NA	392	1.25
-Eulemur fulvus	28.1	NA	NA	NA	194	1.46
-Eulemur mongoz	20.75	234423	138038	1	NA	1.33
-Varecia variegata	49.83	NA	NA	NA	299	1.32
-Lepilemur ruficaudatus	7.5	NA	NA	NA	77	1.14
-Perodicticus potto	13.54	NA	NA	1.03	127	1.27
-Loris tardigradus	6.63	NA	NA	NA	52	1.29
+Microcebus murinus	1.85	190546	112202		11	1.1
+Cheirogaleus major	6.43				83	1.15
+Cheirogaleus medius	3.01	186209	109648		25	1.11
+Avahi laniger	10.65				172	1.26
+Avahi occidentalis	9.69				74	1.15
+Propithecus verreauxi	26.9				231	1.35
+Indri indri	37.35				330	1.46
+Daubentonia m.	44.89				392	1.25
+Eulemur fulvus	28.1				194	1.46
+Eulemur mongoz	20.75	234423	138038	1		1.33
+Varecia variegata	49.83				299	1.32
+Lepilemur ruficaudatus	7.5				77	1.14
+Perodicticus potto	13.54			1.03	127	1.27
+Loris tardigradus	6.63				52	1.29
 Nycticebus coucang	11.73	109648	53703	1.25	142	1.21
-Galago senegalensis	4.8	338844	151356	NA	40	1.17
-Otolemur crassicaudatus	10.6	NA	NA	NA	147	1.26
-Galago demidoff	3.35	NA	NA	NA	30	1.21
-Tupaia glis	3.03	131826	107152	0.87	NA	1.06
-Capra hircus	106	NA	NA	0.94	NA	2.28
-Bos taurus	462	NA	NA	1.32	NA	2.53
-Odocoileus virginianus	160	NA	.	0.84	NA	2.27
-Tursiops truncatus	1489	147911	229087	0.79	NA	4.76
-Sus scrofa	13765	48978	70795	0/8	NA	2.16
-Lama glama	216.77	NA	.	0.76	NA	2.7
-Equus caballus	712	NA	.	0.84	NA	2.8
-Mustelaa putorius	8.25	NA	.	0.56	NA	1.75
-Procyon lotor	40.02	104713	83176	.	NA	1.85
-Zalophus californianus	363	30903	57544	1.22	NA	2.52
-Phoca vitulina	273.75	NA	.	1.06	NA	2.38
-Ursus maritimus	472.68	44668	95499	1.32	NA	2.04
-Vulpes vulpes	45.63	81283	77625	1/5	NA	1.8
-Panthera leo	24721	NA	NA	1.48	NA	1.85
-Felis catus	31.18	114815	22909	0.85	NA	1.5
-Crocuta crocuta	153.27	63096	79433	1.28	NA	1.74
-Cynictis penicillata	12.51	141254	123027	0.79	NA	1.35
-Pteropus giganteus	9	NA	NA	0.96	NA	1.25
-Erinaceus europaeus	3.5	194984	128825	0.85	NA	1
-Sorex araneus	0.2	338844	295121	0.38	NA	1
-Choloepus didactylus	77	NA	NA	0.8	NA	1.38
-Dasypus novemcinctus	10.75	NA	NA	1	NA	1.07
-Trichechus manatus	382	51286	97724	2.71	NA	1.02
-Procavia capensis	19.17	NA	NA	0.71	NA	1.37
-Macropus fuliginosus	64.8	NA	NA	1	NA	1.41
-Didelphis virginiana	6.72	NA	NA	0.66	NA	1.12
+Galago senegalensis	4.8	338844	151356		40	1.17
+Otolemur crassicaudatus	10.6				147	1.26
+Galago demidoff	3.35				30	1.21
+Tupaia glis	3.03	131826	107152	0.87		1.06
+Capra hircus	106			0.94		2.28
+Bos taurus	462			1.32		2.53
+Odocoileus virginianus	160		.	0.84		2.27
+Tursiops truncatus	1489	147911	229087	0.79		4.76
+Sus scrofa	13765	48978	70795	0/8		2.16
+Lama glama	216.77		.	0.76		2.7
+Equus caballus	712		.	0.84		2.8
+Mustelaa putorius	8.25		.	0.56		1.75
+Procyon lotor	40.02	104713	83176	.		1.85
+Zalophus californianus	363	30903	57544	1.22		2.52
+Phoca vitulina	273.75		.	1.06		2.38
+Ursus maritimus	472.68	44668	95499	1.32		2.04
+Vulpes vulpes	45.63	81283	77625	1/5		1.8
+Panthera leo	24721			1.48		1.85
+Felis catus	31.18	114815	22909	0.85		1.5
+Crocuta crocuta	153.27	63096	79433	1.28		1.74
+Cynictis penicillata	12.51	141254	123027	0.79		1.35
+Pteropus giganteus	9			0.96		1.25
+Erinaceus europaeus	3.5	194984	128825	0.85		1
+Sorex araneus	0.2	338844	295121	0.38		1
+Choloepus didactylus	77			0.8		1.38
+Dasypus novemcinctus	10.75			1		1.07
+Trichechus manatus	382	51286	97724	2.71		1.02
+Procavia capensis	19.17			0.71		1.37
+Macropus fuliginosus	64.8			1		1.41
+Didelphis virginiana	6.72			0.66		1.12

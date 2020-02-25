@@ -1,9 +1,0 @@
-Original:
-http://www.frontiersin.org/files/Articles/50640/fnana-07-00035-HTML/image_m/fnana-07-00035-t001.jpg
-
-Legend:
-Table 1. Distribution of neurons across cortical areas in the mouse brain.
-
-Comments:
-Numbers are corrected to compensate for losses due to sectioning and thus reflect total numbers per functional area in one cortical hemisphere ± standard error 									
-of the mean.
