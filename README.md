@@ -22,12 +22,17 @@ We recently started using [https://observablehq.com/](https://observablehq.com/)
 * [Figure 2 from Herculano-Houzel et al 2013](https://github.com/r03ert0/comparative-data/blob/master/10.3389%252Ffnana.2013.00035_Figure2TopLeft.tsv) Number of neurones and volume of 18 cortical regions of the mouse
 * [from Lewitus et al 2013](https://github.com/r03ert0/comparative-data/blob/master/10.3389%252Ffnhum.2013.00424.tsv) Brain weight, neurone density, astrocyte density, grey matter thickness, ventricular volume and gyrification index for 66 species.
 * [Table from Burger et al. 2019](https://github.com/r03ert0/comparative-data/blob/master/10.5061%252Fdryad.2r62k7s.tsv). An interactive plot of this data can be found at [https://observablehq.com/@katjaq/comparative-data-brushable](https://observablehq.com/@katjaq/comparative-data-brushable)
+* [Tree from Isler et al 2008](https://github.com/r03ert0/comparative-data/blob/master/10.1016%2Fj.jhevol.2008.08.004_Tree.nex) Phylogenetic tree of primates (176 species, Nexus format).
+* [Table S1 from Isler et al 2008](https://github.com/r03ert0/comparative-data/blob/master/10.1016%2Fj.jhevol.2008.08.004_TableS1.tsv) Endocranial volumes and body mass data (individual specimens).
+* [Table S2 from Isler et al 2008](https://github.com/r03ert0/comparative-data/blob/master/10.1016%2Fj.jhevol.2008.08.004_TableS2.tsv) Endocranial volumes and body mass data (species means).
+* [Table S3 from Isler et al 2008](https://github.com/r03ert0/comparative-data/blob/master/10.1016%2Fj.jhevol.2008.08.004_TableS3.tsv) Data on basal metabolic rate, gestation and lactation length.
 
 ## References
 
 * Burger et al (2019). The allometry of brain size in mammals. [http://dx.doi.org/10.1093/jmammal/gyz043](http://dx.doi.org/10.1093/jmammal/gyz043)
 * Herculano-Houzel et al (2013). Distribution of neurons in functional areas of the mouse cerebral cortex reveals quantitatively different cortical zones. [http://dx.doi.org/10.3389/fnana.2013.00035](http://dx.doi.org/10.3389/fnana.2013.00035)
 * Lewitus et al (2013). Conical expansion of the outer subventricular zone and the role of neocortical folding in evolution and development. [http://dx.doi.org/10.3389/fnhum.2013.00424](http://dx.doi.org/10.3389/fnhum.2013.00424)
-* Lewitus et al (2013). An Adaptive Threshold in Mammalian Neocortical Evolution. [http://dx.doi.org/10.1371/journal.pbio.1002000](http://dx.doi.org/10.1371/journal.pbio.1002000)
+* Lewitus et al (2014). An Adaptive Threshold in Mammalian Neocortical Evolution. [http://dx.doi.org/10.1371/journal.pbio.1002000](http://dx.doi.org/10.1371/journal.pbio.1002000)
 * Mota and Herculano-Houzel (2015). Cortical folding scales universally with surface area and thickness, not number of neurons. [http://dx.doi.org/10.1126/science.aaa9101](http://dx.doi.org/10.1126/science.aaa9101)
+* Isler, K., Christopher Kirk, E., Miller, J. M. A., Albrecht, G. A., Gelvin, B. R., & Martin, R. D. (2008). Endocranial volumes of primate species: scaling analyses using a comprehensive and reliable data set. [https://doi.org/10.1016/j.jhevol.2008.08.004](https://doi.org/10.1016/j.jhevol.2008.08.004)
 
