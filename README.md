@@ -22,12 +22,12 @@ We recently started using [https://observablehq.com/](https://observablehq.com/)
 * [Figure 2 from Herculano-Houzel et al 2013](https://github.com/r03ert0/comparative-data/blob/master/10.3389%252Ffnana.2013.00035_Figure2TopLeft.tsv) Number of neurones and volume of 18 cortical regions of the mouse
 * [from Lewitus et al 2013](https://github.com/r03ert0/comparative-data/blob/master/10.3389%252Ffnhum.2013.00424.tsv) Brain weight, neurone density, astrocyte density, grey matter thickness, ventricular volume and gyrification index for 66 species.
 * [Table from Burger et al. 2019](https://github.com/r03ert0/comparative-data/blob/master/10.5061%252Fdryad.2r62k7s.tsv). An interactive plot of this data can be found at [https://observablehq.com/@katjaq/comparative-data-brushable](https://observablehq.com/@katjaq/comparative-data-brushable)
-* [Table 2 from Isler et al 2008](https://github.com/r03ert0/comparative-data/blob/master/10.1016%2Fj.jhevol.2008.08.004_Table2.tsv) Differences between ECV of wild and captive primates in our compilation.
-* [Table 7 from Isler et al 2008](https://github.com/r03ert0/comparative-data/blob/master/10.1016%2Fj.jhevol.2008.08.004_Table7.tsv) Least-squares regressions for ln(ECV) versus ln(Body mass) within different primate species.
-* [Tree from Isler et al 2008](https://github.com/r03ert0/comparative-data/blob/master/10.1016%2Fj.jhevol.2008.08.004_Tree.nex) Phylogenetic tree of primates (176 species, Nexus format).
-* [Table S1 from Isler et al 2008](https://github.com/r03ert0/comparative-data/blob/master/10.1016%2Fj.jhevol.2008.08.004_TableS1.tsv) Endocranial volumes and body mass data (individual specimens).
-* [Table S2 from Isler et al 2008](https://github.com/r03ert0/comparative-data/blob/master/10.1016%2Fj.jhevol.2008.08.004_TableS2.tsv) Endocranial volumes and body mass data (species means).
-* [Table S3 from Isler et al 2008](https://github.com/r03ert0/comparative-data/blob/master/10.1016%2Fj.jhevol.2008.08.004_TableS3.tsv) Data on basal metabolic rate, gestation and lactation length.
+* [Table 2 from Isler et al 2008](https://github.com/r03ert0/comparative-data/blob/master/10.1016%252Fj.jhevol.2008.08.004_Table2.tsv) Differences between ECV of wild and captive primates in our compilation.
+* [Table 7 from Isler et al 2008](https://github.com/r03ert0/comparative-data/blob/master/10.1016%252Fj.jhevol.2008.08.004_Table7.tsv) Least-squares regressions for ln(ECV) versus ln(Body mass) within different primate species.
+* [Tree from Isler et al 2008](https://github.com/r03ert0/comparative-data/blob/master/10.1016%252Fj.jhevol.2008.08.004_Tree.nex) Phylogenetic tree of primates (176 species, Nexus format).
+* [Table S1 from Isler et al 2008](https://github.com/r03ert0/comparative-data/blob/master/10.1016%252Fj.jhevol.2008.08.004_TableS1.tsv) Endocranial volumes and body mass data (individual specimens).
+* [Table S2 from Isler et al 2008](https://github.com/r03ert0/comparative-data/blob/master/10.1016%252Fj.jhevol.2008.08.004_TableS2.tsv) Endocranial volumes and body mass data (species means).
+* [Table S3 from Isler et al 2008](https://github.com/r03ert0/comparative-data/blob/master/10.1016%252Fj.jhevol.2008.08.004_TableS3.tsv) Data on basal metabolic rate, gestation and lactation length.
 
 ## References
 
