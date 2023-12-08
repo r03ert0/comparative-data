@@ -1,4 +1,4 @@
-"Species","Whole brain","Whole brain SD","Olfactory bulbs","Olfactory bulbs SD","Cortex","Cortex SD","Subcortical forebrain","Subcortical forebrain SD","Cerebellum","Cerebellum SD","Brain stem","Brain stem SD"
+"Species","Whole brain_N,n","Whole brain_N,n_SD","Olfactory bulbs_N,n","Olfactory bulbs_N,n_SD","Cortex_N,n","Cortex_N,n_SD","Subcortical forebrain_N,n","Subcortical forebrain_N,n_SD","Cerebellum_N,n","Cerebellum_N,n_SD","Brain stem_N,n","Brain stem_N,n_SD"
 "Heterocephalus glaber",33620000,3660000,3010000,330000,5310000,310000,2860000,5e+05,20520000,3010000,1910000,280000
 "Cryptomys hottentotus",96240000,9650000,7990000,460000,11730000,220000,4550000,690000,68810000,9020000,3170000,360000
 "Fukomys darlingi",113350000,3790000,7600000,1250000,12490000,530000,5190000,810000,84910000,3950000,3140000,150000
