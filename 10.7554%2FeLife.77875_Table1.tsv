@@ -1,0 +1,70 @@
+"Animal"	"Species"	"Digital dexterity"	"Body weight kg"	"Number of fibers per tract"	"Number of fibers per tract ref"	"Largest fiber diameter µm"	"Largest fiber diameter µm ref"	"Average fiber size x 10ˆ5 K"	"Area of tract mmˆ2"	"Area of tract mmˆ2 ref"	"Penetration down spinal cord"	"Penetration down spinal cord ref"	"Lamina of axon terminals deepest"	"Lamina of axon terminals deepest ref"	"Lamina of axon terminals densest"	"Lamina of axon terminals densest ref"
+"Aardvark"	"Orycteropus afer"	2	60	NA	NA	NA	NA	NA	0.53	NA	"Upper C"	"VERHAART, 1970"	NA	NA	NA	NA
+"Anteater"	"Myrmecophaga jubata"	1	20	NA	NA	10	"VERHAART, 1970"	NA	0.6	NA	NA	NA	NA	NA	NA	NA
+"Armadillo"	"Dasypus novemcinctus"	1	5	NA	NA	2	"VERHAART, 1970"	NA	0.6	NA	"T3"	"FISHER el al., 1969"	8	"FISHER el al., 1969"	6	NA
+"Bat (vampire)"	"Desmodus rufus"	1	0.033	NA	NA	NA	NA	NA	0.01	NA	NA	NA	NA	NA	NA	NA
+"Bat (Indian tuber nose)"	"Horpyiocepalus leucogostra"	1	0.01	NA	NA	NA	NA	NA	0.04	NA	NA	NA	NA	NA	NA	NA
+"Bat"	"Myotis"	1	0.03	NA	NA	NA	NA	NA	0.01	NA	"S"	"BROERE, 1966"	NA	NA	NA	NA
+"Bat (India Kalong)"	"Pteropus edulis"	1	0.9	NA	NA	NA	NA	NA	0.12	NA	NA	NA	NA	NA	NA	NA
+"Bat (horseshoe)"	"Rhinolophus"	1	0.016	NA	NA	NA	NA	NA	0.01	NA	NA	NA	NA	NA	NA	NA
+"Bat"	"Tasarida cynocephala"	1	1.3	8000	NA	NA	NA	0.25	0.02	NA	NA	NA	NA	NA	NA	NA
+"Bear (assume Brown)"	NA	2	200	NA	NA	NA	NA	NA	9.21	NA	NA	NA	NA	NA	NA	NA
+"Beaver"	"Castor canadiensis"	3	13	NA	NA	NA	NA	NA	NA	NA	"S"	"DOUGLAS and BARR, 1950"	NA	NA	NA	NA
+"Bushbaby"	"Galago crassicaudatus"	5	1.14	NA	NA	NA	NA	NA	NA	NA	"S"	"FERRER, 1971"	9	"FERRER, 1971"	6	"FERRER, 1971"
+"Bushbaby"	"Galago senegalensis"	5	0.26	NA	NA	2.5	"VERHAART, 1966"	NA	NA	NA	"Lower L"	"VERHAART, 1966"	NA	NA	NA	NA
+"Camel"	"Camelus"	NA	570	NA	NA	6	"VERHAART, 1970"	NA	NA	NA	NA	NA	NA	NA	NA	NA
+"Cat (domestic)"	"Felis catus"	2	3.5	186000	"LASSEK and RASMUSSEN, 1940"	5	"SCHIEBEL and SCHIEBEL, 1966"	0.6	1.13	NA	"S"	"NYBERG-HANSEN and BRODAL, 1963"	8	"NYBERG-HANSEN and BRODAL, 1963"	6	"NYBERG-HANSEN and BRODAL, 1963"
+"Chimpanzee"	"Pan troglodytes"	6	44	807000	"LASSEK and WHEATLEY, 1945"	NA	NA	0.96	7.77	NA	"coccygeal"	"PETRAS, 1968"	10	"PETRAS, 1968"	6	"PETRAS, 1968"
+"Chipmunk"	"Tamias striatus"	3	0.1	NA	NA	NA	NA	NA	0.26	NA	"S"	"SIMPSON, 1914"	NA	NA	NA	NA
+"Cow (unspecified)"	NA	1	500	540000	"LASSEK, 1942"	5	"VERHAART, 1970"	0.55	2.97	NA	"Upper C"	"LASSEK, 1942"	NA	NA	NA	NA
+"Coypu rat"	"Myocastor coypus"	3	5	NA	NA	8	"GOLDBY and KACKER, 1963"	NA	0.37	NA	"S"	"GOLDBY and KACKER, 1963"	6	"GOLDBY and KACKER, 1963"	NA	NA
+"Deer (unspecified)"	NA	1	200	490000	"LASSEK, 1942"	6	"VERHAART, 1970"	0.58	2.89	NA	"Upper C"	"LASSEK, 1942"	NA	NA	NA	NA
+"Dog (domestic)"	"Canis familiaris"	2	11	285500	"LASSEK and RASMUSSEN, 1940"	NA	NA	1.22	3.49	NA	"L5"	"BUXTON and GOODMAN, 1967"	8	"BUXTON and GOODMAN, 1967"	NA	NA
+"Elephant (Indian)"	"Elephus maximus"	1	6000	NA	NA	8	"VERHAART, 1963"	NA	5.13	NA	"Middle T"	"VERHAART, 1963"	NA	NA	NA	NA
+"Ferret"	"Putorius furo"	3	0.9	90000	"NOORDUYN, 1959"	10	"NOORDUYN, 1959"	NA	1.5	NA	NA	NA	NA	NA	NA	NA
+"Gibbon"	"Hylobates lar"	6	6	315000	"VERHAART, 1948b"	12	"VERHAART, 1970"	1.09	3.44	NA	"S"	"PETRAS, 1968"	10	"PETRAS, 1968"	6	"PETRAS, 1968"
+"Gibbon"	"Hylobates syndactylus"	6	10	239700	"VERHAART, 1948b"	NA	NA	1.35	3.25	NA	NA	NA	NA	NA	NA	NA
+"Goat (domestic)"	"Capra hircus"	1	80	260000	"LASSEK, 1942"	5	"VERHAART, 1970"	0.21	0.569	NA	"C7"	"HAARTSEN and VERHAART, 1967"	6	"HAARTSEN and VERHAART, 1967"	NA	NA
+"Gopher"	"Spermophillus tridecemlineatus"	3	0.65	NA	NA	NA	NA	NA	NA	NA	"L3"	"SIMPSON,1915"	NA	NA	NA	NA
+"Guinea Pig"	"Cavia aperea"	2	0.6	NA	NA	NA	NA	NA	0.33	NA	NA	NA	NA	NA	NA	NA
+"Hamster"	"Cricetus auratus"	3	0.5	480000	"DOUGLAS and BARR, 1950"	NA	NA	NA	NA	NA	"S"	"DOUGLAS and BARR, 1950"	NA	NA	NA	NA
+"Hedgehog"	"Erinaceous"	2	0.75	NA	NA	NA	NA	NA	0.02	NA	"Upper C"	"VERHAART, 1970"	NA	NA	NA	NA
+"Hedgehog"	"Paraechinus"	2	0.5	NA	NA	NA	NA	NA	NA	NA	"Upper C"	"ROBARDS, personal commun.; CAMPBELL, 1967"	NA	NA	NA	NA
+"Hog (domestic)"	"Sus scrofa"	1	90	210000	"TRUEX and CARPENTER, 1969"	5	"VERHAART, 1970"	0.85	1.8	NA	NA	NA	NA	NA	NA	NA
+"Horse (domestic)"	"Equus caballus"	1	350	NA	NA	5	"VERHAART, 1970"	NA	2.68	NA	NA	NA	NA	NA	NA	NA
+"Kinkajou"	"Potos flavus"	3	2.1	NA	NA	NA	NA	NA	NA	NA	"Lower L"	"HARTING and NOBACK, 1970"	10	"HARTING and NOBACK, 1970"	NA	NA
+"Lemur"	"Lemur catta"	5	2.1	NA	NA	3	"VERHAART, 1966"	NA	NA	NA	"Lower L"	"VERHAART, 1966"	NA	NA	NA	NA
+"Man"	"Homo sapiens"	7	70	1101000	"LASSEK and RASMUSSEN, 1940"	22	"TRUEX and CARPENTER, 1969"	1.03	11.43	NA	"coccygeal"	"TRUEX and CARPENTER, 1969"	NA	NA	NA	NA
+"Mole"	"Scalopus aquaticus"	1	0.1	NA	NA	4	"BISHOP et al., 1971"	NA	0.01	NA	"Upper T"	"LINOWIECKI, 1914"	NA	NA	NA	NA
+"Monkey (spider)"	"Ateleus ater"	4	6	505000	"LASSEK, 1943"	12	"LASSEK, 1943"	0.63	3.23	NA	"coccygeal"	"PETRAS, 1968"	10	"PETRAS, 1969"	6	"PETRAS, 1968"
+"Monkey (capucin)"	"Cebus apella"	5	1.25	NA	NA	NA	NA	NA	2	NA	"coccygeal"	"PETRAS, 1968"	10	"PETRAS, 1969"	6	"PETRAS, 1968"
+"Monkey (vervet)"	"Cercopithecus pygerythrus"	6	4	NA	NA	NA	NA	NA	NA	NA	"coccygeal"	"PETRAS, 1968"	10	"PETRAS, 1969"	6	"PETRAS, 1968"
+"Monkey (wooly)"	"Lagothrix lagotricha"	5	6	NA	NA	NA	NA	NA	NA	NA	"coccygeal"	"PETRAS, 1968"	10	"PETRAS, 1968"	6	"PETRAS, 1968"
+"Monkey (macaque)"	"Macaca ira"	6	5	195000	"VERHAART, 1948a"	NA	NA	0.6	1.18	NA	NA	NA	NA	NA	NA	NA
+"Monkey (macaque)"	"Macaca mulatta"	6	8.3	400000	"DEMEYER and RUSSEL, 1958"	NA	NA	0.72	2.89	NA	"coccygeal"	"PETRAS, 1968"	10	"PETRAS, 1969"	6	"PETRAS, 1968"
+"Monkey (baboon)"	"Papio papio"	6	25	NA	NA	NA	NA	NA	NA	NA	NA	NA	10	"PHILLIPS, 1967"	NA	NA
+"Monkey (marmoset)"	"Saquinas oedipus"	4	0.4	NA	NA	NA	NA	NA	NA	NA	"S"	"SHRIVER and MATZKE, 1965"	6	"SHRIVER and MATZKE, 1965"	NA	NA
+"Monkey (squirrel)"	"Saimiri sciureus"	5	0.75	NA	NA	8	"VERHAART, 1970"	NA	0.7	NA	"S"	"VERHAART, 1966"	9	"HARTING AND NOBACK, 1970"	6	"HARTING AND NOBACK, 1970"
+"Mouse (unspecified)"	NA	3	0.025	32300	"LASSEK and RASMUSSEN, 1940"	NA	NA	0.21	0.07	NA	NA	NA	NA	NA	NA	NA
+"Mule"	"Equus"	1	250	412000	"LASSEK, 1942"	5	"VERHAART, 1970"	0.9	3.74	NA	NA	NA	NA	NA	NA	NA
+"Opossum"	"Didelphis"	3	3.7	48100	"TOWE, 1973"	NA	NA	0.45	0.22	NA	"Upper T"	"BAUTISTA and MATZKE, 1965"	8	"MARTIN and FISHER, 1968"	5	"MARTIN and FISHER, 1968"
+"Orangutan"	"Pongo pygmaeus"	6	60	NA	NA	NA	NA	NA	2.61	NA	NA	NA	NA	NA	NA	NA
+"Pangolin"	"Manis pentadactyla"	NA	18	NA	NA	2.5	"VERHAART, 1970"	NA	0.16	NA	NA	NA	NA	NA	NA	NA
+"Phalanger"	"Trichosurus vulpecula"	3	3.5	NA	NA	NA	NA	NA	0.54	NA	"Lower T"	"REES and HORE, 1970; MARTIN et al., 1970"	8	"REES and HORE, 1970; MARTIN et al., 1970"	6	"REES and HORE, 1970; MARTIN et al., 1970"
+"Pygmy shrew"	"Microsorex hoyi"	2	0.003	NA	NA	1	"VERHAART, 1970"	NA	0.02	NA	NA	NA	NA	NA	NA	NA
+"Quokka wallaby"	"Setonix brachyurus"	3	3.5	NA	NA	NA	NA	NA	0.1	NA	"T7"	"WATSON, 1971"	6	"WATSON, 1971"	5	"WATSON, 1971"
+"Rabbit (domestic)"	"Oryctolagus cuniculus"	2	1.8	101700	"LASSEK and RASMUSSEN, 1940"	4	"VERHAART, 1970"	0.27	0.28	NA	"C4"	"VERHAART, 1970"	NA	NA	NA	NA
+"Raccoon"	"Procyon lotor"	3	0.12	NA	NA	NA	NA	NA	NA	NA	"S"	"SIMPSON, 1912"	10	"PETRAS and LEHMAN, 1966"	NA	NA
+"Rat (unspecified)"	NA	3	0.4	137000	"BROWN, 1971"	5	"BISHOP et al., 1971"	0.1	0.14	NA	"S"	"GOODMAN et al., 1966"	8	"GOODMAN et al., 1966"	5	"BROWN, 1971"
+"Rock hyrax"	"Procavia capensis"	2	NA	NA	NA	9	"VERHAART, 1967"	NA	0.72	NA	"S"	"VERHAART, 1967"	NA	NA	6	"VERHAART, 1967"
+"Seal"	"Callorhinus ursinus"	1	52	748000	"LASSEK and KARLSBERG, 1956"	25	"LASSEK and KARLSBERG, 1956"	0.27	2.08	NA	NA	NA	NA	NA	NA	NA
+"Sheep (domestic)"	"Ovis aries"	1	80	238000	"LASSEK, 1942"	5	"VERHAART, 1970"	0.59	1.42	NA	"CJ"	"KING, 1911"	NA	NA	6	"KING, 1911"
+"Slow loris"	"Nycticebus coucang"	5	1.3	NA	NA	4.5	"VERHAART, 1970"	NA	0.28	NA	"S"	"CAMPBELL, 1967"	10	"CAMPBELL et al., 1966"	6	"CAMPBELL et al., 1966"
+"Spiney anteater"	"Tachyglossus aculeata"	2	4.2	NA	NA	NA	NA	NA	0.39	NA	"T16"	"GOLDBY, 1939"	NA	NA	NA	NA
+"Squirrel"	"Sciurrrus hudsonius"	3	0.6	NA	NA	NA	NA	NA	0.4	NA	"S"	"SIMPSON, 1914"	NA	NA	NA	NA
+"Tapir (unspecified)"	"Tapirus"	1	250	NA	NA	5	"VERHAART, 1970"	NA	1.48	NA	NA	NA	NA	NA	NA	NA
+"Tarsier"	"Tarsius"	4	0.12	NA	NA	NA	NA	NA	0.16	NA	NA	NA	NA	NA	NA	NA
+"Tasmanian potoroo"	"Potorous apicalis"	2	1.35	NA	NA	NA	NA	NA	NA	NA	"T12"	"MARTIN et al., 1972"	7	"MARTIN et al., 1972"	5	"MARTIN et al., 1972"
+"Tree shrew"	"Tupaia glis"	3	0.16	NA	NA	2	"VERHAART, 1966"	NA	0.12	NA	"Lower T"	"SHRIVER and NOBACK, 1967"	6	"JANE et al., 1969"	5	"CAMPBELL, 1967"
+"Whale (porpoise)"	"Phocaena phocoena"	1	60	NA	NA	5	"VERHAART, 1970"	NA	1.27	NA	NA	NA	NA	NA	NA	NA
+"Woodchuck"	"Marmota monax"	NA	5.3	NA	NA	NA	NA	NA	0.37	NA	"S"	"DOUGLAS and BARR, 1950"	NA	NA	NA	NA
