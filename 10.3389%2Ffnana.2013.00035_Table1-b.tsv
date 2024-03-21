@@ -1,8 +1,8 @@
-Area  % cortical area % cortical volume Neurons % cortical neurons
-Motor		9.12	12.23	508471	10.07				
-Sensory		51.76	5731	3120496	61.81				
-Visual		12.2	10.73	880723	1745				
-Somatosensory		1706	28.23	1252324	24.81				
-Auditory		5.7	4.97	377362	747				
-Insular		5.3	6.19	256495	5.08				
-Piriform		11.5	719	353592	700				
+"Area"	"% cortical area"	"% cortical volume"	"Neurons"	"% cortical neurons"
+Motor	9.12	12.23	508471	10.07
+Sensory	51.76	5731	3120496	61.81
+Visual	12.2	10.73	880723	1745
+Somatosensory	1706	28.23	1252324	24.81
+Auditory	5.7	4.97	377362	747
+Insular	5.3	6.19	256495	5.08
+Piriform	11.5	719	353592	700
